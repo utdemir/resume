@@ -1,0 +1,135 @@
+{
+    "basics": {
+        "name": "Utku Demir",
+        "picture": "http://www.gravatar.com/avatar/aa78d79fb4238d200e26fb87e3de947b.jpg?s=256",
+        "summary": "A CE student from Turkey. Interested in free software, machine learning and programming languages.",
+        "email": "utdemir@gmail.com",
+        "phone": "+90 (536) 627-1024",
+        "location": {
+            "city": "Ankara",
+            "countryCode": "TR"
+        },
+        "website": "http://utdemir.com",
+        "profiles": [
+            {
+                "network": "github",
+                "username": "utdemir",
+                "url": "https://github.com/utdemir"
+            },
+            {
+                "network": "stackoverflow",
+                "username": "utdemir",
+                "url": "http://stackoverflow.com/users/472416/utdemir"
+            },
+            {
+                "network": "linkedin",
+                "username": "utdemir",
+                "url": "http://www.linkedin.com/in/utdemir"
+            },
+            {
+                "network": "keybase",
+                "username": "utdemir",
+                "url": "https://keybase.io/utdemir"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Picus Security",
+            "position": "Software Developer",
+            "website": "http://picussecurity.com",
+            "startDate": "2014-08-03"
+        },
+        {
+            "company": "Özgur Yazılım A.Ş",
+            "position": "Intern on System Administration",
+            "website": "http://www.ozguryazilim.com.tr",
+            "startDate": "2013-06-20",
+            "endDate": "2013-08-30",
+            "summary": "System administration on SL6 machines. Worked on Graylog, Logstash, Nagios and Puppet."
+        }
+    ],
+    "education": [
+        {
+            "institution": "Hacettepe University",
+            "startDate": "2011-09-01",
+            "endDate": "2014-06-06",
+            "area": "Computer Engineering",
+            "studyType": "Bachelor",
+            "gpa": "3.59",
+            "courses": [
+                "BBM406 - Introduction to Machine Learning",
+                "BBM412 - Computer Graphics",
+                "BBM486 - Design Patterns",
+                "BBM486 - Computer Networks Laboratory",
+                "BBM493 - Personal Software Process",
+                "BBM413 - Introduction to Image Processing",
+                "BBM485 - Computer Architecture",
+                "BBM491 - Personal Software Process",
+                "BBM202 - Algorithms",
+                "BBM471 - Database Management Systems",
+                "BBM301 - Programming Languages",
+                "RUS238 - Russian IV"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Programming",
+            "keywords": [
+                "Python (Numpy/Qt/Flask)",
+                "C",
+                "sh",
+                "Java",
+                "Haskell",
+                "MATLAB"
+            ]
+        },
+        {
+            "name": "Platforms",
+            "keywords": [
+                "GNU/Linux"
+            ]
+        },
+        {
+            "name": "Applications",
+            "keywords": [
+                "Ansible",
+                "Git",
+                "Nginx"
+            ]
+        },
+        {
+            "name": "Focuses",
+            "keywords": [
+                "Machine Learning",
+                "Computer Vision",
+                "Programming Languages"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Turkish",
+            "fluency": "Native Speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Advanced"
+        },
+        {
+            "language": "Russian",
+            "fluency": "Elementary"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Go",
+            "keywords": ["7 kyu", "Member of Hacettepe University Go Club"]
+        },
+        {
+            "name": "Sci-Fi",
+            "keywords": ["Isaac Asimov", "Douglas Adams"]
+        }
+    ]
+}
